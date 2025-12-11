@@ -1,8 +1,3 @@
----
-
-## 8. `process_mining_engine.md`
-
-```markdown
 # Process Mining Engine
 
 Defines how PM4Py is used and structured.
